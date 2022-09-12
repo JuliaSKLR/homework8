@@ -1,0 +1,15 @@
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\bin\Debug\net6.0\003.exe
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\bin\Debug\net6.0\003.deps.json
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\bin\Debug\net6.0\003.runtimeconfig.json
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\bin\Debug\net6.0\003.dll
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\bin\Debug\net6.0\003.pdb
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\obj\Debug\net6.0\003.csproj.AssemblyReference.cache
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\obj\Debug\net6.0\003.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\obj\Debug\net6.0\003.AssemblyInfoInputs.cache
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\obj\Debug\net6.0\003.AssemblyInfo.cs
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\obj\Debug\net6.0\003.csproj.CoreCompileInputs.cache
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\obj\Debug\net6.0\003.dll
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\obj\Debug\net6.0\refint\003.dll
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\obj\Debug\net6.0\003.pdb
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\obj\Debug\net6.0\003.genruntimeconfig.cache
+D:\User Data\Derla\Desktop\GeekBrains\Си Шарп\homework8\003\obj\Debug\net6.0\ref\003.dll
